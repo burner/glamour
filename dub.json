@@ -33,6 +33,7 @@
 				"SDLImage2"
 			],
 			"dependencies": {
+				"gl3n": "~master",
 				"derelict-gl3": "~master",
 				"derelict-sdl2": "~master"
 			},
@@ -52,6 +53,7 @@
 				"SDLImage2"
 			],
 			"dependencies": {
+				"gl3n": "~master",
 				"derelict-gl3": "~master",
 				"derelict-sdl2": "~master"
 			}
@@ -71,6 +73,7 @@
 				"SDLImage2"
 			],
 			"dependencies": {
+				"gl3n": "~master",
 				"derelict-gl3": "~master",
 				"derelict-sdl2": "~master"
 			}
